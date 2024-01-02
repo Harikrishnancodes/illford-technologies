@@ -6,7 +6,7 @@ import Navbar from "./Components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Illford technologies",
+  title: "Illford Technologies",
   description: "Illford Technologies private Limited",
 };
 
