@@ -15,7 +15,7 @@ function Contactss() {
             </h2>
           </div>
           <div className="contact-inputs">
-          <form action="https://formsubmit.co/fca1ddb449d15124465f7a43efd00bc2" method="POST" className="contact-form" >
+          <form action="https://formsubmit.co/harih6176@gmail.com" method="POST" className="contact-form" >
               <div className="input-first">
                 <input type="text" placeholder="Name"  name="Name" required/>
                 <input type="text" placeholder="Company" className="Company"  name="Company"/>
@@ -39,6 +39,8 @@ function Contactss() {
                 placeholder="Requirements"
                 className="contact-requirement"
               />
+         <input type="hidden" name="_autoresponse" value="your custom message" />
+              <input type="hidden" name="_autoresponse" value="your custom message" />
               <div className="contact-btn-div">
                 <button className="contact-btn">Send Message</button>
               </div>

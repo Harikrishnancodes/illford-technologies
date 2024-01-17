@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
           <div className="footer-bottom">
             <div className="footer-bottom-txt">
-              <a href="/">
+              <a href="/" >
                 <p>illfordDigital </p>
               </a>
               <a href="/contact">

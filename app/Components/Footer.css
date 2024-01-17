@@ -62,6 +62,9 @@
 .footer-bottom-txt p:hover{
     color: rgb(82, 80, 80);
 }
+.footer-bottom-txt a {
+    text-decoration: none;
+}
 .footer-txt{
     width: 400px;
 }
